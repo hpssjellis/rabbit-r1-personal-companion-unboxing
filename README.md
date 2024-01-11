@@ -15,21 +15,21 @@ This Github was Started Jan 10th, 2024
 
 ## List of possble hashtags for the Rabbit R1 Personal Companion
 
-#AITechnology
-#PersonalAssistant
-#InnovativeGadgets
-#RabbitR1
-#RabbitR1
-#RabbitR1PersonalCompanion
-#RabbitTech
-#SmartDevice
-#TechInnovation
+#AITechnology   
+#PersonalAssistant   
+#InnovativeGadgets   
+#RabbitR1   
+#RabbitR1Tech   
+#RabbitR1PersonalCompanion  
+#RabbitTech  
+#SmartDevice  
+#TechInnovation  
 
 
 
 
 
-@rabbitinc
+@rabbitinc    
 
 
 
