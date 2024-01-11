@@ -4,6 +4,13 @@ A github of possible  unboxing tests to run on the jan 9th, 2024 rabbit r1 perso
 
 This Github was Started Jan 10th, 2024
 
+
+
+
+[Rabbit.tech
+![image](https://github.com/hpssjellis/rabbit-r1-personal-companion-unboxing/assets/5605614/b6dfc5b8-2afc-47f0-a5aa-a01d40f0f06a)](https://www.rabbit.tech/)
+
+
 ## Anyone can Add an issue to this Github of something to test on the R1
 (I will not be able to run all tests)
 
