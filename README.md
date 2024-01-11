@@ -4,7 +4,7 @@ A github of possible  unboxing tests to run on the jan 9th, 2024 rabbit r1 perso
 
 This Github was Started Jan 10th, 2024
 
-## Add an issue of something to test on the R1
+## Anyone can Add an issue to this Github of something to test on the R1
 (I will not be able to run all tests)
 
 
