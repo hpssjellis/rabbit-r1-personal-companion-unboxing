@@ -41,5 +41,8 @@ Check the issues for possible tests to run. I will not be able to do all possibl
 
 # Use at your own risk
 
-By [linkedin: Jeremy Ellis](https://www.linkedin.com/in/jeremy-ellis-4237a9bb/) 
+By [linkedin: Jeremy Ellis](https://www.linkedin.com/in/jeremy-ellis-4237a9bb/)   
+Long time Machine Learning High School Educator
+
+Check the issues list for other machine learning interested users.
 
