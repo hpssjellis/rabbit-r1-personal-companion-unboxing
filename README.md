@@ -4,6 +4,10 @@ A github of possible  unboxing tests to run on the jan 9th, 2024 rabbit r1 perso
 
 This Github was Started Jan 10th, 2024
 
+getting started guide avaliable on April 27, 2024
+
+https://www.rabbit.tech/manual
+
 
 
 
