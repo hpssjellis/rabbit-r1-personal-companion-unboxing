@@ -1,5 +1,15 @@
 # rabbit-r1-personal-companion-unboxing
 
+
+
+## My Rabbit R1 arrived May 8th, 2024
+
+1. It feels really good, smaller than I thought it would be and solid, not heavy. Fits in my shirt pocket.
+2. he case is very solid, I probably will leave it in my backpack.
+3. Setup took about 20 minutes, needed WiFi and then an internet connection through the usb-c cable. Did three types of downloads.
+
+
+
 A github of possible  unboxing tests to run on the jan 9th, 2024 rabbit r1 personal companion
 
 This Github was Started Jan 10th, 2024
